@@ -1,1 +1,1 @@
-# Integrating the Fintech Finder Consulting Application with the Ethereum Blockchain
+# Fintech Finder Consulting Application Ethereum Integration
