@@ -1,1 +1,1 @@
-# Fintech Finder Consulting Application Ethereum Integration
+# Fintech Finder Application Ethereum Integration
