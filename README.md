@@ -34,15 +34,15 @@ In order to view the project, navigate to the `fintech_finder.py` file in the re
 
 ## View of the User Interface with queued transaction.
 
-![Interface Image](https://github.com/MaxAcheson/module_19_challenge/blob/main/Starter_Code/Images/Project%20Image%201.png)
+![Interface Image](https://github.com/MaxAcheson/module_19_challenge/blob/main/Images/Project%20Image%201.png)
 
 ## Ganache account balance and transaction amount.
 
-![Ganache 1](https://github.com/MaxAcheson/module_19_challenge/blob/main/Starter_Code/Images/Project%20Image%203.png)
+![Ganache 1](https://github.com/MaxAcheson/module_19_challenge/blob/main/Images/Project%20Image%203.png)
 
 ## Ganache account transaction history.
 
-![Ganache 2](https://github.com/MaxAcheson/module_19_challenge/blob/main/Starter_Code/Images/Project%20Image%202.png)
+![Ganache 2](https://github.com/MaxAcheson/module_19_challenge/blob/main/Images/Project%20Image%202.png)
 
 ## Contributors
 
